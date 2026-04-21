@@ -34,7 +34,7 @@ DATASET_TAR_ID = '13JXJ_hIdcloC63sS-vF3wFQLsUP1sMz5'
 DATASET_TAR_PATH = '/content/dataset.tar.gz'
 DATASET_EXTRACT_PATH = '/content/dataset'
 
-EPOCHS = 20
+EPOCHS = 30
 BATCH_SIZE = 8 
 LR_BACKBONE = 1e-5
 LR_TRANSFORMER = 1e-4
